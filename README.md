@@ -13,7 +13,7 @@
 <h2> ✒️Связаться со мной</h2>
 <ul>
 <li>💬 В Телеграмм: <a href="https://t.me/vbalashova"> t.me/vbalashova</a>.</li>
-<li>🎉 Эл. почта: lentina201226@gmail.com.</strong></li>
+<li>🌐 Эл. почта: lentina201226@gmail.com.</strong></li>
 </ul>
 
 <h2>🚀 Инструменты которыми я пользуюсь</h2>
