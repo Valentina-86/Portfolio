@@ -39,7 +39,9 @@
 - Баг-репорт
   (https://www.notion.so/2d96a2d3564240c9b3d32cbe1d85efb0?v=3e5d7c1e2b2a41f59dd378dbb71858ae)
 - Чек-листы
+  (https://www.notion.so/c07d170295ee4c67859bf4d95fd6ac1b?pvs=4#afa412d1a5c54198a11aee8f51388b7a)
 - Регрессионное тестирование
+  (https://www.notion.so/c07d170295ee4c67859bf4d95fd6ac1b?pvs=4#14299fe2415b4bee996936099448605b)
 - Postman-коллекция
   (https://file.notion.so/f/f/9ce390c2-877e-47a5-87ea-0344a9231ef7/df12561c-5485-4478-b61c-b2ee9f5f3e03/Coursework_2.postman_collection.json?id=5283486a-c948-43ed-bb0c-8a8ebc2aa742&table=block&spaceId=9ce390c2-877e-47a5-87ea-0344a9231ef7&expirationTimestamp=1697702400000&signature=yMa0Pmkf6T6R-HxqUBmudNCoa9nXTOCF-EjWiXg50LQ&downloadName=Coursework_2.postman_collection.json)
 - Postman тест-ран (https://file.notion.so/f/f/9ce390c2-877e-47a5-87ea-0344a9231ef7/c345ce96-4718-4779-8df4-74e2349b8843/Coursework_2.postman_test_run.json?id=a4357afd-f596-44af-a274-22e5364f4dc6&table=block&spaceId=9ce390c2-877e-47a5-87ea-0344a9231ef7&expirationTimestamp=1697702400000&signature=78yXPpDSHJd_USRn95jAb_CNu8a2CdRrxnxh94fsd3U&downloadName=Coursework_2.postman_test_run.json)
