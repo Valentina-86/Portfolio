@@ -30,3 +30,20 @@
  <a href="https://app.qase.io"><img src="https://img.shields.io/badge/Gase-blue"></a> 
 </p>
 
+## Мои навыки 📜
+
+### Проекты
+
+- Курсовая работа 1
+  (https://www.notion.so/1-2-c4770d604c334737ad939010b6393421)
+- Баг-репорт
+  (https://www.notion.so/2d96a2d3564240c9b3d32cbe1d85efb0?v=3e5d7c1e2b2a41f59dd378dbb71858ae)
+- Чек-листы
+- Регрессионное тестирование
+- Postman-коллекция
+  (https://file.notion.so/f/f/9ce390c2-877e-47a5-87ea-0344a9231ef7/df12561c-5485-4478-b61c-b2ee9f5f3e03/Coursework_2.postman_collection.json?id=5283486a-c948-43ed-bb0c-8a8ebc2aa742&table=block&spaceId=9ce390c2-877e-47a5-87ea-0344a9231ef7&expirationTimestamp=1697702400000&signature=yMa0Pmkf6T6R-HxqUBmudNCoa9nXTOCF-EjWiXg50LQ&downloadName=Coursework_2.postman_collection.json)
+- Postman тест-ран (https://file.notion.so/f/f/9ce390c2-877e-47a5-87ea-0344a9231ef7/c345ce96-4718-4779-8df4-74e2349b8843/Coursework_2.postman_test_run.json?id=a4357afd-f596-44af-a274-22e5364f4dc6&table=block&spaceId=9ce390c2-877e-47a5-87ea-0344a9231ef7&expirationTimestamp=1697702400000&signature=78yXPpDSHJd_USRn95jAb_CNu8a2CdRrxnxh94fsd3U&downloadName=Coursework_2.postman_test_run.json)
+- SQL коллекция
+  (https://file.notion.so/f/f/9ce390c2-877e-47a5-87ea-0344a9231ef7/cf92b41b-8dc0-43b8-990f-4dedffa8b530/финальное_задание.sql?id=ce54bb51-9d59-40d3-ab39-d475e07db335&table=block&spaceId=9ce390c2-877e-47a5-87ea-0344a9231ef7&expirationTimestamp=1697702400000&signature=pQIh-plPghPgC4mEj4tnZwq1CtfAVenCv84EQhwlDqw&downloadName=финальное_задание.sql)
+
+
