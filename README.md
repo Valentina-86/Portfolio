@@ -45,10 +45,11 @@
 - Postman тест-ран (https://file.notion.so/f/f/9ce390c2-877e-47a5-87ea-0344a9231ef7/c345ce96-4718-4779-8df4-74e2349b8843/Coursework_2.postman_test_run.json?id=a4357afd-f596-44af-a274-22e5364f4dc6&table=block&spaceId=9ce390c2-877e-47a5-87ea-0344a9231ef7&expirationTimestamp=1697702400000&signature=78yXPpDSHJd_USRn95jAb_CNu8a2CdRrxnxh94fsd3U&downloadName=Coursework_2.postman_test_run.json)
 - SQL коллекция
   (https://file.notion.so/f/f/9ce390c2-877e-47a5-87ea-0344a9231ef7/cf92b41b-8dc0-43b8-990f-4dedffa8b530/финальное_задание.sql?id=ce54bb51-9d59-40d3-ab39-d475e07db335&table=block&spaceId=9ce390c2-877e-47a5-87ea-0344a9231ef7&expirationTimestamp=1697702400000&signature=pQIh-plPghPgC4mEj4tnZwq1CtfAVenCv84EQhwlDqw&downloadName=финальное_задание.sql)
+- Мобильное тестирование
+  (https://www.notion.so/1570dc7ba49b4924a9cbe983b621f07e)
 
 ## Чему я сейчас учусь 📚
 
-- Мобильное тестирование
 - Логирование CI/CD
 - HTML и CSS
 - Система контроля версий GIT
